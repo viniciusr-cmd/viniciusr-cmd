@@ -13,19 +13,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm a Back-end Engineer from Rio de Janeiro, Brazil<br><br>- 🔭 I’m working as a Back-end / Blockchain Engineer<br>- 📚 I'm currently learning Blockchain<br>- ⚡ In my free time i train Pokémon</p>
+<p align="center">I'm a Back-end Engineer from Rio de Janeiro, Brazil<br><br>- 🔭 I’m working as a Back-end / Blockchain Engineer<br>- 📚 I'm currently learning Blockchain<br>- ⚡ In my free time i train Pokémon</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -59,7 +59,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/12146159473">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=12146159473&unique={true|1|on|yes}" alt="Spotify recently played"  />
   </a>
